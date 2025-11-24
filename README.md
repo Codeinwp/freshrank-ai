@@ -75,6 +75,25 @@ The free version includes full analysis capabilities but **does not include**:
 - PHP 7.4 or higher
 - OpenAI API key
 
+## Support
+
+- [Documentation](https://docs.themeisle.com/collection/2368-freshrank)
+
+## Frequently Asked Questions ##
+
+### Does it work in other languages besides English? ###
+Yes! FreshRank works in any language that GPT-5 supports. That includes 50+ languages like Spanish, French, German, Portuguese, Italian, Japanese, Chinese, Korean, Arabic, and many more. The AI analyzes and generates drafts in your content’s original language.
+
+### Do I need my own API keys? ###
+Yes, FreshRank uses your own OpenAI API key. This gives you full control and transparency. We provide detailed setup guides and cost estimation tools in the dashboard.
+
+### Does the plugin store my content on external servers? ###
+Your content is temporarily sent to OpenAI’s API for analysis and updates, but FreshRank doesn’t permanently store your content on external servers.
+
+All your articles, drafts, and analysis results are stored securely in your WordPress database on your own server. When you enable Google Search Console integration, only performance metrics are retrieved—not your content.
+
+Your API keys are also stored securely in your WordPress database and never shared with third parties.
+
 ## Installation
 
 ### Download and Install
@@ -91,10 +110,8 @@ The free version includes full analysis capabilities but **does not include**:
 3. Enter your OpenAI API key
 4. Start analyzing your content!
 
-## Support
-
-- [Documentation](https://docs.themeisle.com/collection/2368-freshrank)
-
----
-
-**Made by [Themeisle](https://themeisle.com)**
+## Screenshots
+1. FreshRank dashboard
+2. Post analysis results
+3. Draft details screen
+4. API usage tracking
